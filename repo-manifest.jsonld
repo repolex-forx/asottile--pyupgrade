@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/pyupgrade/commit/9c750258a396dfd86f21f1510dddad2a21191675",
       "git:hexsha": "9c750258a396dfd86f21f1510dddad2a21191675",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:57:24.763107+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/pyupgrade/commit/835502c50cc70b5640a09306687fe8e77b033f8f",
